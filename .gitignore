@@ -1,3 +1,6 @@
 johnson_counter.cache/*
 johnson_counter.runs/*
 johnson_counter.gen/*
+vivado*.log
+vivado*.jou
+vivado*.zip
